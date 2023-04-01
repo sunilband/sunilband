@@ -19,9 +19,7 @@
 <a href="https://instagram.com/chaichopath" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-<a href="https://linkedin.com/in/sunil-band/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+
   
 
 
@@ -52,9 +50,8 @@ My philosophy is simple: life is too short to do anything that doesn't make you 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" align="center" style="width: 100%" />
 </div>  
-
 
 </td></tr></table>  
 
@@ -82,13 +79,13 @@ My philosophy is simple: life is too short to do anything that doesn't make you 
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table style="border:none !important;"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sunilband&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%,overflow: hidden" />
 
 </td></tr></table>  
 
