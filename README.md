@@ -20,8 +20,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
-  
-
 
 
 ### Glad to see you here!  
@@ -31,8 +29,11 @@ When I'm not staring at a computer screen, you can usually find me in the wild t
 
 My philosophy is simple: life is too short to do anything that doesn't make you happy. That's why I've dedicated to coding - because I truly love what I do. And if you're looking for a MERN full stack developer who's passionate, creative, and just a little bit quirky, well... you've come to the right place!  
   
-
+you can checkout my portfolio at -
+</br>
+<h2>https://sunilband.netlify.com</h2>
 <br/>  
+
 
 
 ## Rapidfire  
@@ -82,29 +83,28 @@ My philosophy is simple: life is too short to do anything that doesn't make you 
 ## Github Stats  
 <table style="border:none !important;"><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sunilband&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sunilband&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%,,overflow:hidden" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%,overflow: hidden" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilband&hide_border=true&layout=compact" align="left" style="width: 100%,overflow:hidden" />
 
 </td></tr></table>  
-
 <br/>  
 
 
 
-### 🎶 The Jams I Listen To   
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=85omxvbmid40xijy76e4j5lb0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)  
+### 🎶 The Jams I Listen To
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=85omxvbmid40xijy76e4j5lb0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sunilband&&style=flat-square" align="center" />
+</div>  
   
 
 <br/>  
-
-
-<br />
 
 ----
