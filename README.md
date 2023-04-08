@@ -21,7 +21,7 @@
 
 
 ### Glad to see you here!  
-Well hello there! I'm a MERN full stack developer who spends most of their waking hours tinkering with code and drinking copious amounts of chai.
+Well hello there! I'm a MERN full stack developer who spends most of my hours tinkering with code and drinking copious amounts of chai.
 
 When I'm not staring at a computer screen, you can usually find me in the wild taking some pictures, binge-watching anime, or taking some bike rides to awesome places .
 
