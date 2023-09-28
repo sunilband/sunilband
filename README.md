@@ -16,14 +16,24 @@
 
 
 
+
+
 ### Glad to see you here!  
-Well hello there! I'm a MERN full stack developer who spends most of my hours tinkering with code and drinking copious amounts of chai.
 
-When I'm not staring at a computer screen, you can usually find me in the wild taking some pictures, binge-watching anime, or taking some bike rides to awesome places .
+### 🤖 About Me:
+- 🤓 Full-time code ninja 🍕
+- 💻 Professional Chai sipper ☕
+- 🎉 Part-time debugger (I swear I didn't break it... this time) 🪲
+- 🌍 World-class procrastinator 🕒
+- 💡 Inventor of the "404: Chai not found" error 🤦‍♂️
 
-My philosophy is simple: life is too short to do anything that doesn't make you happy. That's why I've dedicated to coding - because I truly love what I do. And if you're looking for a MERN full stack developer who's passionate, creative, and just a little bit quirky, well... you've come to the right place!  
+### 💾 Current Mission:
+- 🚀 Building a time machine ⏰ (so I can fix all those bugs from the past)
+- 🌌 Exploring the uncharted territory of Stack Overflow 🗺️
+- 🍕 Achieving a perfect work-life-pizza balance 🍕 > 🏋️
+
   
-you can checkout my portfolio at -
+you can check my portfolio at -
 </br>
 <h2>https://sunilband.netlify.com</h2>
 <br/>  
