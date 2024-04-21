@@ -80,6 +80,7 @@ you can check my portfolio at -
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="Postman" height="50" /></a>
 <a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50"/></a>
 <a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" height="50"/></a>
+<a href="" target="_blank" title="Three.js" rel="noreferrer"><img src="https://raw.githubusercontent.com/mrdoob/three.js/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg" alt="Three.js" height="50"/></a>
 </div>  
 
 <br/>  
