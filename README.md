@@ -1,5 +1,5 @@
 # Sunil Band
-Frontend Engineer · I turn chai into web apps that scale
+Frontend Engineer · I build scalable, cross-browser apps that stay fast under heavy traffic
 
 ![Next.js](https://img.shields.io/badge/Next.js%20·%20React-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
